@@ -1,0 +1,57 @@
+C:\Users\sajjadpc\anaconda3\lib\site-packages\scipy\__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.24.2
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2023-04-07 02:36:37.429692: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Found 28709 images belonging to 7 classes.
+Found 7178 images belonging to 7 classes.
+Epoch 1/25
+898/898 [==============================] - 858s 953ms/step - loss: 1.7679 - accuracy: 0.2769 - val_loss: 1.6477 - val_accuracy: 0.3697
+Epoch 2/25
+898/898 [==============================] - 691s 769ms/step - loss: 1.6489 - accuracy: 0.3473 - val_loss: 1.4910 - val_accuracy: 0.4323
+Epoch 3/25
+898/898 [==============================] - 716s 797ms/step - loss: 1.5460 - accuracy: 0.3928 - val_loss: 1.4121 - val_accuracy: 0.4517
+Epoch 4/25
+898/898 [==============================] - 719s 801ms/step - loss: 1.4843 - accuracy: 0.4197 - val_loss: 1.3556 - val_accuracy: 0.4911
+Epoch 5/25
+898/898 [==============================] - 705s 785ms/step - loss: 1.4321 - accuracy: 0.4433 - val_loss: 1.3208 - val_accuracy: 0.4974
+Epoch 6/25
+898/898 [==============================] - 697s 776ms/step - loss: 1.4056 - accuracy: 0.4532 - val_loss: 1.2752 - val_accuracy: 0.5033
+Epoch 7/25
+898/898 [==============================] - 696s 775ms/step - loss: 1.3740 - accuracy: 0.4657 - val_loss: 1.2895 - val_accuracy: 0.5013
+Epoch 8/25
+898/898 [==============================] - 706s 786ms/step - loss: 1.3594 - accuracy: 0.4706 - val_loss: 1.2745 - val_accuracy: 0.5050
+Epoch 9/25
+898/898 [==============================] - 727s 809ms/step - loss: 1.3478 - accuracy: 0.4791 - val_loss: 1.2816 - val_accuracy: 0.4987
+Epoch 10/25
+898/898 [==============================] - 750s 835ms/step - loss: 1.3255 - accuracy: 0.4893 - val_loss: 1.2282 - val_accuracy: 0.5259
+Epoch 11/25
+898/898 [==============================] - 705s 785ms/step - loss: 1.3152 - accuracy: 0.4917 - val_loss: 1.2168 - val_accuracy: 0.5277
+Epoch 12/25
+898/898 [==============================] - 701s 781ms/step - loss: 1.2996 - accuracy: 0.4963 - val_loss: 1.2218 - val_accuracy: 0.5304
+Epoch 13/25
+898/898 [==============================] - 758s 843ms/step - loss: 1.2824 - accuracy: 0.5067 - val_loss: 1.2188 - val_accuracy: 0.5302
+Epoch 14/25
+898/898 [==============================] - 706s 785ms/step - loss: 1.2801 - accuracy: 0.5084 - val_loss: 1.1872 - val_accuracy: 0.5440
+Epoch 15/25
+898/898 [==============================] - 702s 782ms/step - loss: 1.2650 - accuracy: 0.5125 - val_loss: 1.1800 - val_accuracy: 0.5415
+Epoch 16/25
+898/898 [==============================] - 745s 829ms/step - loss: 1.2633 - accuracy: 0.5138 - val_loss: 1.1805 - val_accuracy: 0.5435
+Epoch 17/25
+898/898 [==============================] - 859s 956ms/step - loss: 1.2522 - accuracy: 0.5175 - val_loss: 1.2021 - val_accuracy: 0.5355
+Epoch 18/25
+898/898 [==============================] - 952s 1s/step - loss: 1.2403 - accuracy: 0.5223 - val_loss: 1.1673 - val_accuracy: 0.5468
+Epoch 19/25
+898/898 [==============================] - 860s 957ms/step - loss: 1.2394 - accuracy: 0.5233 - val_loss: 1.1725 - val_accuracy: 0.5502
+Epoch 20/25
+898/898 [==============================] - 748s 833ms/step - loss: 1.2313 - accuracy: 0.5277 - val_loss: 1.1827 - val_accuracy: 0.5436
+Epoch 21/25
+898/898 [==============================] - 711s 792ms/step - loss: 1.2224 - accuracy: 0.5296 - val_loss: 1.1621 - val_accuracy: 0.5461
+Epoch 22/25
+898/898 [==============================] - 745s 829ms/step - loss: 1.2140 - accuracy: 0.5301 - val_loss: 1.1551 - val_accuracy: 0.5553
+Epoch 23/25
+898/898 [==============================] - 736s 820ms/step - loss: 1.2181 - accuracy: 0.5318 - val_loss: 1.1562 - val_accuracy: 0.5532
+Epoch 24/25
+898/898 [==============================] - 844s 939ms/step - loss: 1.2094 - accuracy: 0.5363 - val_loss: 1.1517 - val_accuracy: 0.5513
+Epoch 25/25
+898/898 [==============================] - 959s 1s/step - loss: 1.1995 - accuracy: 0.5388 - val_loss: 1.1427 - val_accuracy: 0.5573
